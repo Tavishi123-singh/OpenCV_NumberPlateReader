@@ -10,7 +10,7 @@
 1. Make sure `python` is installed.
 1. Open Project in an IDE (`Pycharm` Recommended)
 1. Make sure to configure the python interpreter.
-1. Also download and add two modules : `opencv` and `numpy` to the project.
+1. Also download and add three modules : `opencv`, `requests` and `numpy` to the project.
 1. Run the `Project2.py` file.
 
 # Demo
